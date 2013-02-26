@@ -1,6 +1,6 @@
 # Vim 2 Emacs
 
-I'm a slow learner and it takes me about x^n times before I it's concrete in my mind.
+I'm a slow learner and it takes me about x^n times before something is concrete in my mind.
 
 
 * Searching
@@ -31,7 +31,7 @@ I'm a slow learner and it takes me about x^n times before I it's concrete in my 
 
     | Vim           | Emacs         |
     | ------------- | ------------- |
-    | :b{n}, :ls    | Ctrl-xb buffer_name, Ctrl-x-Ctrl-b (see buffers |
+    | :b{n}, :ls    | Ctrl-xb buffer_name, Ctrl-x-Ctrl-b (see buffers ) |
 
 * Quitting
 
