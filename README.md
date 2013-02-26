@@ -13,7 +13,7 @@ I'm a slow learner and it takes me about x^n times before something is concrete 
 
     | Vim           | Emacs         |
     | ------------- | ------------- |
-    | u             | Ctrl-xu       |
+    | u             | Ctrl-xu, Ctrl-/  |
 
 * Abort?
 
@@ -44,4 +44,12 @@ I'm a slow learner and it takes me about x^n times before something is concrete 
     | Vim           | Emacs         |
     | ------------- | ------------- |
     | :w    | Ctrl-x-Ctrl-s |
+
+* Help
+
+    | Vim           | Emacs         |
+    | ------------- | ------------- |
+    | :help command    | F1-command |
+
+
     
