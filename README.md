@@ -51,5 +51,33 @@ I'm a slow learner and it takes me about x^n times before something is concrete 
     | ------------- | ------------- |
     | :help command    | F1-command |
 
+* Open file
 
-    
+    | Vim           | Emacs         |
+    | ------------- | ------------- |
+    | :e <filename>    | Ctrl-x-Ctrl-f file/path |
+
+* Copy/paste
+
+    | Vim           | Emacs         |
+    | ------------- | ------------- |
+    | my => y"y        | M-w => Ctrl-y |
+
+* Cut/paste
+
+    | Vim           | Emacs         |
+    | ------------- | ------------- |
+    | md => d"d        | Ctrl-w => Ctrl-y |
+
+* Delete line
+
+    | Vim           | Emacs         |
+    | ------------- | ------------- |
+    | dd        | Ctrl-a (beginning of line) Ctrl-k |
+
+
+Other things thate have interest:
+f4, jump to file
+alt-l (lower case word)
+
+Ctrl-ro (rectangle open)
